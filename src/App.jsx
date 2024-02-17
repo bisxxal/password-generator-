@@ -36,7 +36,7 @@ useEffect(() => {
 
   return (
     
-    <div className="flex items-center flex-col text-white bg-zinc-900 h-[500vh]  w-full">
+    <div className="flex items-center flex-col text-white bg-zinc-900 h-[100vh]  w-full">
       <h1 className="m-6 text-center caret-violet-700 font-bold  ">
         {" "}
         Password generator {" "}
